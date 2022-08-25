@@ -6,3 +6,5 @@ var GameboardModule = (function () {
     }
     return gameboard;
 })();
+
+export { GameboardModule };
