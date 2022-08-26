@@ -1,5 +1,16 @@
 .gameBoard {
+    background-color: green;
+}
+
+#gameDisplay {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.boardPiece {
     width: 100px;
     height: 100px;
-    background-color: green;
+    background-color: red;
+    border: 1px solid black;
+    justify-items: center;
 }
