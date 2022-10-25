@@ -1,4 +1,4 @@
-var GameboardModule = (function () {
+/*var GameboardModule = (function () {
     console.log("global module text")
     var gameboard = {}
     gameboard.generateGameboard = () => {
@@ -8,6 +8,7 @@ var GameboardModule = (function () {
 })();
 
 export { GameboardModule };
+*/
 
 // Example I wanted to look at later
 // const counterCreator = () => {
